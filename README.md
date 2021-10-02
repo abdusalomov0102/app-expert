@@ -1,9 +1,9 @@
-# Full Stack Instagram Application in React JS  and Spring Boot
-
-# Frontend:  React JS
-1. @material-ui
-2. firebase
+# App-Expert Application in Spring Boot
 
 # Backend: Spring Boot
-1. Data JPA
-2. Postgresql
+1. Data Rest
+2. Spring Security
+3. Jpa
+
+# Database
+Postgresql
